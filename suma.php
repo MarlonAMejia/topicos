@@ -3,6 +3,7 @@
   $total = $_REQUEST['numero1']+$_REQUEST['numero2'];
    echo "esto es una prueba";
  echo "1";
+ echo "2";
  echo "El total de la suma es: ".$total;
     
   ?>
