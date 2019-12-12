@@ -9,6 +9,8 @@
  echo "1";
  echo "1";
  echo "1";
- echo "El total de la suma es: ".$total;
+ 
+
+ echo "El total desuma es: ".$total;
     
   ?>
