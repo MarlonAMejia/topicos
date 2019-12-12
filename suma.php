@@ -4,6 +4,8 @@
    echo "esto es una prueba";
  echo "1";
  echo "2";
+ echo "rama2";
+ echo "esta es la rama2";
  echo "El total de la suma es: ".$total;
     
   ?>
