@@ -8,6 +8,7 @@
  echo "esta es la rama2";
  echo "1";
  echo "1";
+ echo "1";
  echo "El total de la suma es: ".$total;
     
   ?>
